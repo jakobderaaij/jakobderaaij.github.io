@@ -1,6 +1,5 @@
 ---
 title: "Does Representation Guarantee Welfare?"
-authors: Test, Test, Test
 collection: publications
 category: manuscripts
 permalink: /publication/2025-sortition
