@@ -13,8 +13,8 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item" style="margin-bottom: 3em">
-    <h3>{{ title }} <a href="/files/{{ post.link }}" rel="permalink"><i style="font-size:1.2em; margin-left:.25em" class="fa">&#xf1c1;</i></a></h3>
-
+    <h3>{{ title }} {% if post.link %}<a href="/files/{{ post.link }}" rel="permalink">[Pdf]</a>{% endif %}</h3>
+    
     <p class="archive__item-excerpt" style="margin-top:-.9em">  {{post.authors | markdownify}} </p>
     <p class="archive__item-excerpt" style="margin-top:-.9em"> {{ post.citation | markdownify }}</p>
     <p class="archive__item-excerpt" style="margin-top:-.9em"> {{ post.excerpt | markdownify }}</p>
