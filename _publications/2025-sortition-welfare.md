@@ -1,5 +1,5 @@
 ---
-title: "Doe Representation Guarantee Welfare?"
+title: "Does Representation Guarantee Welfare?"
 authors: Test, Test, Test
 collection: publications
 category: manuscripts
