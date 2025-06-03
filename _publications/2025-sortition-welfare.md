@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-sortition
 excerpt: "Citizens' assemblies gain legitimacy by being representative of the underlying population. We show that assemblies that aren't just representative with respect to each single feature (the current common practice) but also representative with respect to intersections between features come with significantly better guarantees on their ability to optimize welfare for the underlying population. We empirically find that such assemblies could have been selected from the pools of volunteers in real-world citizen assemblies."
-date: 2025
+date: 2025-05-29
 venue: 'Working paper'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'

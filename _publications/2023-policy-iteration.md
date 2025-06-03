@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-policy-iteration
 excerpt: 'We improve the worst-case lower bound on well-known policy iteration algorithm for Determinisitic Markov Decision Processes with a mean-payoff objective. We show that the worst-case number of iterations is linear (up to logarithmic factors) in the input size, significiantly improving on the previously known sublinear bound.'
-date: 2025
+date: 2025-03-20
 venue: 'UAI '25 (forthcoming)'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
