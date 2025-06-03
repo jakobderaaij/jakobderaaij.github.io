@@ -1,4 +1,4 @@
 - title: "A Lower bound for Howard’s Algorithm for Deterministic MDPs with Mean-payoff Objectives"
-  authors: [Ali Asadi](https://ali-asadi.com), [Krishnendu Chatterjee](https://pub.ista.ac.at/~kchatterjee/), Jakob de Raaij
+  authors: '[Ali Asadi](https://ali-asadi.com), [Krishnendu Chatterjee](https://pub.ista.ac.at/~kchatterjee/), Jakob de Raaij'
   citation: "*UAI '25* (forthcoming)"
   excerpt: 'We improve the worst-case lower bound on well-known policy iteration algorithm for Determinisitic Markov Decision Processes with a mean-payoff objective. We show that the worst-case number of iterations the algorithm takes is linear (up to logarithmic factors) in the input size, signifcantly improving on the previously known bound (square root of input size).'

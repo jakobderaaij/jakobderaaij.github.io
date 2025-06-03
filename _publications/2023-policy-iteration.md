@@ -3,7 +3,7 @@ title: "A Lower bound for Howard’s Algorithm for Deterministic MDPs with Mean-
 collection: publications
 category: manuscripts
 permalink: /publication/2023-policy-iteration
-excerpt: 'We improve the worst-case lower bound on well-known policy iteration algorithm for Determinisitic Markov Decision Processes with a mean-payoff objective. We show that the worst-case number of iterations is linear (up to logarithmic factors) in the input size, significiantly improving on the previously known sublinear bound.'
+excerpt: 'We improve the worst-case lower bound on well-known policy iteration algorithm for Determinisitic Markov Decision Processes with a mean-payoff objective. We show that the worst-case number of iterations the algorithm takes is linear (up to logarithmic factors) in the input size, signifcantly improving on the previously known bound (square root of input size).'
 date: 2025-03-20
 venue: 'UAI '25 (forthcoming)'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'

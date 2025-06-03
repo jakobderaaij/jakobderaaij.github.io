@@ -1,4 +1,4 @@
-- title: "Does Representation Guarantee Welfare?"
-  authors: Jakob de Raaij, [Ariel D. Procaccia](https://procaccia.info), [Alexandros Psomas](https://www.alexpsomas.com)
-  link: /files/Does-Representation-Guarantee-Welfare.pdf
+- title: 'Does Representation Guarantee Welfare?'
+  authors: 'Jakob de Raaij, [Ariel D. Procaccia](https://procaccia.info), [Alexandros Psomas](https://www.alexpsomas.com)'
+  link: '/Does-Representation-Guarantee-Welfare.pdf'
   excerpt: "Citizens' assemblies gain legitimacy by being representative of the underlying population. We show that assemblies that aren't just representative with respect to each single feature (the current common practice) but also representative with respect to intersections between features come with significantly better guarantees on their ability to optimize welfare for the underlying population. We empirically find that such assemblies can be selected in real-world citizen assemblies from the pools of volunteers."
