@@ -45,7 +45,7 @@ author_profile: true
 </ul>
 
 ### Note
-Authors are order alphabetically unless noted otherwise. 
+Authors are ordered alphabetically unless noted otherwise. 
 
 <!-- ## Unpublished Manuscripts
 
