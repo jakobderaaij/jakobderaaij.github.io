@@ -15,10 +15,10 @@
 <div class="{{ include.type | default: "list" }}__item" style="margin-bottom: 3em">
     <h3>{{ title }} </h3>
     
-    {% if post.link %}<a href="/files/{{ post.link }}" rel="permalink">[PDF]</a>{% endif %}
-    <p class="archive__item-excerpt" style="margin-top:-.9em">  {{post.authors | markdownify}} </p>
-    <p class="archive__item-excerpt" style="margin-top:-.9em"> {{ post.citation | markdownify }}</p>
-    <p class="archive__item-excerpt" style="margin-top:-.9em"> {{ post.excerpt | markdownify }}</p>
-    <p class="archive__item-excerpt" style="margin-top:-.9em"> {{ post.special | markdownify }}</p>
-    <p class="archive__item-excerpt" style="margin-top:-.75em"> </p>
+        {% if post.link %}<a href="/files/{{ post.link }}" rel="permalink">[PDF]</a>{% endif %}
+        <p class="archive__item-excerpt" style="margin-top:-.9em">  {{post.authors | markdownify}} </p>
+        <p class="archive__item-excerpt" style="margin-top:-.9em"> {{ post.citation | markdownify }}</p>
+        <p class="archive__item-excerpt" style="margin-top:-.9em"> {{ post.excerpt | markdownify }}</p>
+        <p class="archive__item-excerpt" style="margin-top:-.9em"> {{ post.special | markdownify }}</p>
+        <p class="archive__item-excerpt" style="margin-top:-.75em"> </p>
 </div>

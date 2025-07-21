@@ -44,6 +44,9 @@ author_profile: true
 {% endfor %}
 </ul>
 
+### Note
+Authors are order alphabetically unless noted otherwise. 
+
 <!-- ## Unpublished Manuscripts
 
 <ul>

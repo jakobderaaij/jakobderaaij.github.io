@@ -25,15 +25,15 @@ author:
   avatar           : "profile.png"
   name             : "Jakob de Raaij"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "G1 student in the EconCS group."
   location         : 
-  employer         : "Harvard University"
+  employer         : 
   uri              : # URL
   email            : "jderaaij@fas.harvard.edu" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : 'http://arxiv.org/a/deraaij_j_1'
   googlescholar    : 
   impactstory      : # URL
   orcid            : 
