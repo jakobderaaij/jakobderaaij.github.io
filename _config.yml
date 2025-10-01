@@ -12,8 +12,8 @@ site_theme               : "default"
 title                    : "Jakob de Raaij"
 title_separator          : "-"
 name                     : &name "Jakob de Raaij"
-description              : &description "personal description"
-url                      : https://jakobderaaij.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "G2 student in the Harvard EconCS group."
+url                      : https://de-raaij.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jakobderaaij/jakobderaaij.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jakob de Raaij"
   pronouns         : # example: "she/her"  
-  bio              : "G1 student in the Harvard EconCS group."
+  bio              : "G2 student in the Harvard EconCS group."
   location         : 
   employer         : 
   uri              : # URL

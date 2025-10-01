@@ -1,5 +1,11 @@
+- title: 'Does Representation Guarantee Welfare?'
+  authors: 'Jakob de Raaij, [Ariel D. Procaccia](https://procaccia.info), [Alexandros Psomas](https://www.alexpsomas.com)'
+  citation: "*NeuRIPS '25* (forthcoming)"
+  link: '/Does-Representation-Guarantee-Welfare.pdf'
+  excerpt: "Citizens' assemblies gain legitimacy by being representative of the underlying population. We show that assemblies that aren't just representative with respect to each single feature (the current common practice) but also representative with respect to intersections between features come with significantly better guarantees on their ability to optimize welfare for the underlying population. We empirically find that such assemblies can be selected in real-world citizen assemblies from the pools of volunteers."
 - title: "A Lower bound for Howard's Algorithm for Deterministic MDPs with Mean-payoff Objectives"
   authors: '[Ali Asadi](https://ali-asadi.com), [Krishnendu Chatterjee](https://pub.ista.ac.at/~kchatterjee/), Jakob de Raaij'
-  citation: "*UAI '25* (forthcoming)"
+  citation: "*UAI '25*"
   excerpt: 'We improve the worst-case lower bound on the well-known Howard''s policy iteration algorithm for Determinisitic Markov Decision Processes with a mean-payoff objective. We show that the worst-case number of iterations the algorithm takes is linear (up to logarithmic factors) in the input size, signifcantly improving on the previously known bound (square root of input size).'
   link: '/Lower-Bound-Policy-Iteration-DMDPs.pdf'
+  poster-link: '/Lower-Bound-Policy-Iteration-DMDPs-Poster.pdf'

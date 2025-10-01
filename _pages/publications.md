@@ -13,12 +13,14 @@ author_profile: true
 
 ---
 
+{% if site.data.working-papers.size > 0 %}
 ## Working Papers
 <ul>
 {% for post in site.data.working-papers %}
   {% include archive-single-publication.html %}
 {% endfor %}
 </ul>
+{% endif %}
 
 <!-- ## Journal Articles -->
 <!-- **Under Submission** -->
@@ -35,14 +37,14 @@ author_profile: true
 {% endfor %}
 </ul> -->
 
-
-
 ## Conference Publications
 <ul>
 {% for post in site.data.publications %}
   {% include archive-single-publication.html %}
 {% endfor %}
 </ul>
+
+---
 
 ### Note
 Authors are ordered alphabetically unless noted otherwise. 
