@@ -1,6 +1,6 @@
 - title: 'Does Representation Guarantee Welfare?'
   authors: 'Jakob de Raaij, [Ariel D. Procaccia](https://procaccia.info), [Alexandros Psomas](https://www.alexpsomas.com)'
-  citation: "*NeuRIPS '25* (forthcoming)"
+  citation: "*NeurIPS '25* (forthcoming)"
   link: '/Does-Representation-Guarantee-Welfare.pdf'
   excerpt: "Citizens' assemblies gain legitimacy by being representative of the underlying population. We show that assemblies that aren't just representative with respect to each single feature (the current common practice) but also representative with respect to intersections between features come with significantly better guarantees on their ability to optimize welfare for the underlying population. We empirically find that such assemblies can be selected in real-world citizen assemblies from the pools of volunteers."
 - title: "A Lower bound for Howard's Algorithm for Deterministic MDPs with Mean-payoff Objectives"
